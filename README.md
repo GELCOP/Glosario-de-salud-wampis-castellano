@@ -1,5 +1,11 @@
 # Glosario de salud wampis castellano
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/59c47929-f552-497a-b7f7-b040dcc341d4" controls width="400">
+    Tu navegador no admite el elemento <code>video</code>.
+  </video>
+</div>
+
 Este aplicativo contiene un glosario bilingüe wampis-castellano y castellano-wampis para atención en salud. El glosario está dividido en un léxico básico y una serie de frases comunes utilizadas por personal de salud para obtener información que permita ayudar a sus pacientes.
 
 Diseñado y elaborado por miembros del Grupo para el Estudio de Lenguas y Culturas Originarias Peruanas de la Pontificia Universidad Católica del Perú, con el apoyo del Vicerrectorado de Investigación a través del proyecto PI0734, y de la Facultad de Letras y Ciencias Humanas.
